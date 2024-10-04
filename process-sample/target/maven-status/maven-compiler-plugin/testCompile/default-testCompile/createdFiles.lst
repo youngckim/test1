@@ -1,0 +1,3 @@
+com/ford/datafactory/streaming/plugins/ProcessPluginTest.class
+com/ford/datafactory/streaming/plugins/DestinationPluginTest.class
+com/ford/datafactory/streaming/plugins/MappingPluginTest.class

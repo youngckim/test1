@@ -1,0 +1,4 @@
+com/ford/datafactory/streaming/plugins/model/User.class
+com/ford/datafactory/streaming/plugins/MappingPlugin.class
+com/ford/datafactory/streaming/plugins/ProcessPlugin.class
+com/ford/datafactory/streaming/plugins/DestinationPlugin.class

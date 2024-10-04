@@ -1,0 +1,3 @@
+/workspaces/test1/process-sample/src/test/java/com/ford/datafactory/streaming/plugins/MappingPluginTest.java
+/workspaces/test1/process-sample/src/test/java/com/ford/datafactory/streaming/plugins/ProcessPluginTest.java
+/workspaces/test1/process-sample/src/test/java/com/ford/datafactory/streaming/plugins/DestinationPluginTest.java
